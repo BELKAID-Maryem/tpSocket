@@ -3,7 +3,7 @@
 
   Dans cette partie en mise en oeuvre une applications Client serveur avec socket qui permet de faire la communication  d un seul client avec le serveur et qui retourne la multiple du nombre qui envoie par le client .
   
-  Le serveur j attend la connexion :
+  Le serveur attendre la connexion :
  ![s1](https://user-images.githubusercontent.com/102295113/160003072-090b4e57-9677-4dc5-aa34-1e364d3f9799.png)
 
   Un client est connecter:
