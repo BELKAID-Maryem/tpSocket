@@ -5,6 +5,7 @@
  ![s1](https://user-images.githubusercontent.com/102295113/160003072-090b4e57-9677-4dc5-aa34-1e364d3f9799.png)
 
   un client est connecter:
+  
  ![clt1](https://user-images.githubusercontent.com/102295113/160003280-7b4324cf-981f-430e-a052-71fc32f7e8ea.png)
 
 
@@ -21,6 +22,7 @@
  
  
 ###Programmation Réseaux :  Serveur Multi Threads
+
  Dans cette partie en va creer  un serveur multi-Threads qui permet de faire la communication des plusieurs client avec le serveur :
  
  ![SERVERMT1](https://user-images.githubusercontent.com/102295113/160005921-3f7800a9-01c7-4ae5-b39e-d2f5dec26eb4.png)
