@@ -1,8 +1,22 @@
 # tpSocket
-
-Part 2 - Programmation Réseaux - Mise en oeuvre des applications Client serveur:
-Dans cette partier en va creer une petite application client serveur avec socket qui permet de faire la communication  d un seul client avec le serveur.
+###Programmation Réseaux :applications Client serveur
+ Dans cette partie en mise en oeuvre une applications Client serveur avec socket qui permet de faire la communication  d un seul client avec le serveur et qui retourne la multiple du nombre qui envoie par le client .
+ 
+ 
+// s1 //clt1 //s2
+ //serverfinalPArtie1 ///ClientFinalPartie2
+ 
+ 
+ 
+###Programmation Réseaux :  Serveur Multi Threads
+ Dans cette partie en va creer  un serveur multi-Threads qui permet de faire la communication des plusieurs client avec le serveur :
+ 
+ //serverML1
+ 
+    Puis le server retourne la longueur d'une chaine de caracteres  qui envoie par le client:
+    
+   //serverML2
      
-     ![image](https://user-images.githubusercontent.com/102295113/159987207-1f2fdd47-e064-4793-a1cc-96531ea6412f.png)
+     
 
 
